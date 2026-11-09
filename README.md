@@ -3,6 +3,7 @@
 **Materia:** Arquitectura y Sistemas Operativos
 **Carrera:** Tecnicatura Universitaria en Programación (UTN)
 **Integrantes:** JAVIER GUILLERMO PALACIOS – ABAUNZ LAUTARO
+**Video:** https://youtu.be/0UVyocTRUCc
 
 ## Descripción
 En este trabajo se instaló una máquina virtual con Ubuntu Server 24.04.5 LTS
